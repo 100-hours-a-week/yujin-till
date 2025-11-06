@@ -2,7 +2,7 @@
 
 ### [11월 첫째주, 8주차] : 리눅스 & OS, 네트워크
 
-[25.11.05](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-05.md) - [네트워크 용어 추가] - [배포과정](https://velog.io/@yujin22/%EB%8B%A8%EC%9D%BC-EC2%EC%97%90%EC%84%9C-Node-Spring-MySQL-%EB%B0%B0%ED%8F%AC)
+[25.11.05](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-05.md) - [네트워크 용어 추가] - [배포과정](https://velog.io/@yujin22/%EB%8B%A8%EC%9D%BC-EC2%EC%97%90%EC%84%9C-Express-Spring-MySQL-%EB%B9%85%EB%B1%85-%EB%B0%B0%ED%8F%AC)
 
 [25.11.04](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-04.md) - [네트워크 기초,장비,용어]
 
