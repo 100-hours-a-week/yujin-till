@@ -2,6 +2,8 @@
 
 ### [11월 첫째주, 8주차] : 리눅스 & OS, 네트워크
 
+[25.11.07](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-06.md) - [대규모 이벤트 상황에서의 네트워크 병목 완화 전략은 무엇일까] - [딥다이브](https://velog.io/@yujin22/DeepDive-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B3%91%EB%AA%A9-%ED%98%84%EC%83%81%EC%9D%84-%EC%99%84%ED%99%94%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%A0%84%EB%9E%B5)
+
 [25.11.06](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-06.md) - [네트워크 모델, IP]
 
 [25.11.05](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-05.md) - [네트워크 용어 추가] - [배포과정](https://velog.io/@yujin22/%EB%8B%A8%EC%9D%BC-EC2%EC%97%90%EC%84%9C-Express-Spring-MySQL-%EB%B9%85%EB%B1%85-%EB%B0%B0%ED%8F%AC)
