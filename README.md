@@ -29,3 +29,7 @@
 [25.10.28](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-28.md) - [브라우저 저장소]
 
 [25.10.27](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-27.md) - [JWT]
+
+### [10월 넷째주, 6주차] : Thymeleaf, Spring 보충
+
+[25.10.23](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-23.md) - [Spring 파일처리]
